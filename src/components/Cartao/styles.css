@@ -1,0 +1,66 @@
+img{
+  width:150px ;
+  height:150;
+  max-width: 60%;
+  float: left;
+}
+
+div#main-div{
+  background-color: #dadada;
+  height:300; 
+  max-width: 60%;
+  height: auto;
+  overflow: auto;
+  margin-top: 30px;
+  cursor: pointer;
+  margin-left: 20%;
+
+}
+
+
+
+div#titulo{
+  font-family: 'Abel';
+  background-color: #116192;
+  padding: 5px;
+  padding-top: 15px;  
+  text-indent: 120px;
+  align-items: baseline;
+  color: #23D7E5;
+} 
+
+div#data{
+  font-family: 'Abel';
+  float:right;
+  margin-right: 66%;
+  font-weight: lighter
+}
+
+
+div#pontos{
+  margin-left:40px;
+  font-family: 'Abel';
+  background-color: #116192;
+  border:10px;
+  border-radius: 50%;
+  display: inline;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #23D7E5;
+  padding: 2%;
+  color: #23D7E5;
+  
+}
+div#sinopse{
+  font-family: 'Lato';  
+  margin-top: 4%;
+  font-size: 80%;
+  padding:10px;
+
+}
+
+p#sinopse2{
+  
+
+  
+}

@@ -1,0 +1,21 @@
+input{
+  width: 60%;
+  margin: auto;
+  height: 100%;
+  background:	#dadada;
+  font-size: 18px;
+  font-weight: lighter;
+  color: #23D7E5;
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+  border-radius:20px;
+  font-family: 'Abel';
+  padding: 11px ;
+}
+
+
+
+::placeholder { 
+  color: #23D7E5;
+}

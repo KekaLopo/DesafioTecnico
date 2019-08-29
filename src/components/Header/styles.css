@@ -1,0 +1,11 @@
+header#main-header {
+  width: 100%;
+  height: 60px;
+  background:	#116192;
+  font-size: 30px;  
+  color: #23D7E5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Abel';
+}

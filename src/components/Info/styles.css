@@ -1,0 +1,98 @@
+img#fotofilme{
+  widows: 400px;
+  height: 400px;
+  max-width: 60%;
+  float: right;
+}
+
+div#Card1{
+  background-color: #eceaea;
+  height:300; 
+  max-width: 100%;
+  overflow: auto;
+  margin-top: 30px;
+  box-sizing: inherit;
+}
+
+div#titulo1{
+ background-color: #dadada;
+ font-size: 30px;
+ padding-left: 25px;
+ padding-top: 25px;
+ font-family: 'Abel';
+  
+}
+
+p#data1{
+  padding-left: 90%;
+  font-size: 15px;
+}
+
+div#sinopse1{
+  margin: 20px;
+  border-bottom: 2px solid #23D7E5;
+  margin-right: 30%;
+}
+div#corpo1{
+  padding-right: 20px;
+  padding-left: 30px; 
+
+}
+div#informacao1{
+  margin-left: 20px;
+  margin-top: 40px;
+  border-bottom: 2px solid #23D7E5;
+  margin-right: 30%;
+  color: #116192;
+}
+
+
+
+
+div#corpo2{
+  display:inline-block;
+  padding:2%;
+
+}
+
+p#ptexto1{
+  color:#116192;
+}
+p#btexto2{
+  color:rgb(20, 20, 20);
+  font-size: 12px;
+}
+
+button#buttons1{
+
+margin-left: 20px;
+padding: 1%;
+display:inline-block;
+border-radius: 20px;
+border: 2px solid #116192;
+background:#fafafa;
+color:#116192;
+font-weight: bold;
+text-decoration: none;
+justify-content:center;
+align-items: center; 
+}
+button#buttons1:hover{
+  background: #116192;
+  color: #fafafa;
+  cursor: pointer;
+
+}
+div#circulo1{
+  margin-left:65%;
+  font-family: 'Abel';
+  background-color: #116192;
+  border:10px;
+  border-radius: 50%;
+  display: inline;
+  border-style: solid;
+  border-width: 4px;
+  border-color: #23D7E5;
+  padding: 2%;
+  color: #23D7E5;
+}

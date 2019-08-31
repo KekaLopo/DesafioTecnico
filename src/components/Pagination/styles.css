@@ -1,0 +1,33 @@
+
+
+div#table{
+	display: table; 
+  margin: 30px auto;
+  
+}
+
+
+
+ul#horizontal-list {
+	min-width: 40px;
+	list-style: none;
+  padding-top: 20px;
+  padding: 20px;
+	}
+	ul#horizontal-list li {
+    display: inline;
+    padding: 30px;
+    font-family: 'Abel';
+   
+  
+    
+  }
+  li#horizontal-list:hover{
+    background-color: #116192;
+    border:10px;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #23D7E5;
+  }
+  

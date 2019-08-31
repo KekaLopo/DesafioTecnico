@@ -1,25 +1,26 @@
-# DesafioTecnico
+# Desafio Técnico
 
 ###`Introdução`
-Ultilizei o Create-React-app pra suprir a necessidade de usar o babel e um live reload pra ver como estava ficando entao pra iniciar a aplicação bastar usar o comando yarn start
+Utilizei o Create-React-app para suprir a necessidade de usar o babel e um live reload pra ver como estava ficando então pra iniciar a aplicação basta usar o comando yarn start e é necessário baixar o node_modules , a maioria dos comandos estão no final do readme
 
 ###`Sobre`
 Um software capaz de fazer buscas pelo nome dos filmes e quando clicado no cartão gerado podemos visualizar algumas informações a mais 
-o arquivo .ENV contem a api por segurança
+o arquivo .ENV contém a api por segurança
 
 ###`Dificuldades e falhas no Escopo`
-Por ser minha primeira aplicação em React \0-0/ eu senti algumas dificuldades com o JSX que nao me permitia criar algumas funçoes onde eu queria e que tambem era bem diferente de quando trabalhei com angular aonde existias os aquivos .ts que prodiamos intruzir as funçoes ligadas a aquela page , alem do que estudo react somente a 14 dias mas foi uma jogarnada muito boa de aprendizado .
-Faltou-me dominio de Css mais avançado tanto pra tratar melhor a resposividade quanto pra estilizar de maneira coerente e sem redundancias.
-Faltou a mim alguma experiencia com APIS por ser a primeira API publica que faço requisiçoes mais complexas , No card de Informaçoes por exemplo faltaram os dados que foram solicitados porque na requisição principal n eram retornados e mesmo assim nao consegui criar um meio de passar junto essas duas requisiçoes.
-Tambem nao consegui tratar o erro de quando passo "F" como parametro de busca o cod da erro e tambem quando nao passo nada retorno um erro acredito que um if bastaria na questão do " "(vazio) mas quanto ao f nem consegui entender o motivo .
-A busca dos Itens serem por dois tipo de requisição tambem foi algo que quebrei a cabeça mas nao encontrei solução.
-Fiquei em duvida quando foi proposto "Resultados de busca paginados, 5 por página" se eram apenas 5 filmes listados por pagina ou uma lista com até 5 paginas .
+Por ser minha primeira aplicação em React \0-0/ eu senti algumas dificuldades com o JSX que não me permitia criar algumas funções onde eu queria e que também era bem diferente de quando trabalhei com angular onde existiam os arquivos .ts que podemos introduzir as funções ligadas a aquela page , alem do que estudo react somente a 14 dias mas foi uma jornada muito boa de aprendizado .
+Faltou-me dominio de Css mais avançado tanto para tratar melhor a responsividade quanto para estimular de maneira coerente e sem redundâncias.
+Faltou a mim alguma experiência com APIS por ser a primeira API pública que faço requisições mais complexas , No card de Informações por exemplo faltaram os dados que foram solicitados porque na requisição principal não eram retornados e mesmo assim nao consegui criar um meio de passar junto essas duas requisições.
+Tambem nao consegui tratar o erro de quando passo "F" como parâmetro de busca o cod da erro e tambem quando nao passo nada retorno um erro acredito que um if bastaria na questão do " "(vazio) mas quanto ao f nem consegui entender o motivo .
+A busca dos Itens serem por dois tipo de requisição também foi algo que quebrei a cabeça mas não encontrei solução.
+Fiquei em dúvida quando foi proposto "Resultados de busca paginados, 5 por página" se eram apenas 5 filmes listados por página ou uma lista com até 5 páginas .
 
 ###`Agradecimentos`
-agradeço a Cubos pela oportunidade e gostaria de poder fazer parte da equipe para melhorar tanta minha experiencia com alguns conceitos avançados quanto aprender estruturas organizacionais e me tornar um profissional capaz que possa trazer bons resultados pra empresa.
+agradeço a Cubos pela oportunidade e gostaria de poder fazer parte da equipe para melhorar tanta minha experiência com alguns conceitos avançados quanto aprender estruturas organizacionais e me tornar um profissional capaz que possa trazer bons resultados para empresa.
 
 ###`INFO`
-Irei manter o README do Creat React App pois ele tambem contem algumas instruçoes do projeto.
+Irei manter o README do Creat React App pois ele também contém algumas instruções do projeto.
+
 
 
 

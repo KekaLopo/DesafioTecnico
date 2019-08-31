@@ -5,6 +5,7 @@ Ultilizei o Create-React-app pra suprir a necessidade de usar o babel e um live 
 
 ###`Sobre`
 Um software capaz de fazer buscas pelo nome dos filmes e quando clicado no cartão gerado podemos visualizar algumas informações a mais 
+o arquivo .ENV contem a api por segurança
 
 ###`Dificuldades e falhas no Escopo`
 Por ser minha primeira aplicação em React \0-0/ eu senti algumas dificuldades com o JSX que nao me permitia criar algumas funçoes onde eu queria e que tambem era bem diferente de quando trabalhei com angular aonde existias os aquivos .ts que prodiamos intruzir as funçoes ligadas a aquela page , alem do que estudo react somente a 14 dias mas foi uma jogarnada muito boa de aprendizado .
